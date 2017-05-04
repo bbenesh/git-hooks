@@ -17,7 +17,7 @@ These will now run in any new git repo you create on your local computer. In ord
 You could also just take the /hooks and /sounds directories and place them in the .git directory of one specific project, and then they would run just for that project. Make sure you run `git init` in your local project after you add these new hooks.
 
 
-Resources: a list of all the urls I hit up when piecing together how to accomplish this
+4. Resources: a list of all the urls I hit up when piecing together how to accomplish this
 
 http://stackoverflow.com/questions/17219540/how-can-i-play-a-sound-whenever-i-commit-to-git
 https://collectiveidea.com/blog/archives/2010/08/03/happy-git-commits
