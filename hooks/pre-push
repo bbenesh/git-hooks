@@ -1,3 +1,4 @@
 #!/bin/sh
 
+# play Push It by Salt-N-Pepa when i push
 afplay ~/.git/sounds/push1.mp3 > /dev/null 2>&1 &

@@ -1,3 +1,4 @@
 #!/bin/sh
 
+# applaud when I commit
 afplay ~/.git/sounds/the_crowd_roars.mp3 > /dev/null 2>&1 &
