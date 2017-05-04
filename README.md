@@ -19,11 +19,11 @@ You could also just take the /hooks and /sounds directories and place them in th
 
 4. Resources: a list of all the urls I hit up when piecing together how to accomplish this
 
-http://stackoverflow.com/questions/17219540/how-can-i-play-a-sound-whenever-i-commit-to-git
-https://collectiveidea.com/blog/archives/2010/08/03/happy-git-commits
-#outdated http://stackoverflow.com/questions/2293498/git-commit-hooks-global-settings
-http://stackoverflow.com/questions/1977610/change-default-git-hooks/37293001#37293001
-https://github.com/git/git/blob/6675f501f6b987dbdb0dbeb1d2efeb5a27fc41a7/Documentation/githooks.txt
-https://www.atlassian.com/git/tutorials/git-hooks
-http://stackoverflow.com/questions/5084100/post-commit-hook-not-running
-https://git-scm.com/book/gr/v2/Customizing-Git-Git-Hooks
+-http://stackoverflow.com/questions/17219540/how-can-i-play-a-sound-whenever-i-commit-to-git
+-https://collectiveidea.com/blog/archives/2010/08/03/happy-git-commits
+-#outdated http://stackoverflow.com/questions/2293498/git-commit-hooks-global-settings
+-http://stackoverflow.com/questions/1977610/change-default-git-hooks/37293001#37293001
+-https://github.com/git/git/blob/6675f501f6b987dbdb0dbeb1d2efeb5a27fc41a7/Documentation/githooks.txt
+-https://www.atlassian.com/git/tutorials/git-hooks
+-http://stackoverflow.com/questions/5084100/post-commit-hook-not-running
+-https://git-scm.com/book/gr/v2/Customizing-Git-Git-Hooks
