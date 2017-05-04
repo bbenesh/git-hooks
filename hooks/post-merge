@@ -1,4 +1,4 @@
 #!/bin/sh
 
 # play "go on, git!" (from the Velveeta Liquid Gold commercial) when i pull
-afplay ~/.git/sounds/the_crowd_roars.mp3 > /dev/null 2>&1 &
+afplay ~/.git/sounds/go_on_git.mp3 > /dev/null 2>&1 &
