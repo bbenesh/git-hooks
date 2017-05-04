@@ -1,8 +1,10 @@
 # git-hooks
 My global git hooks -- most notably, they play audio files when you pull, commit, and push.
 
-//TODO: 
-1. documentation on how to install these globally...
+1. git clone git@github.com:zombree/git-hooks.git .git
+OR download to your computer, save in your home directory, and make sure to name the top-level directory .git. If you don't want this to live in your ~/.git, you need to go into all the hooks that don't end in .sample and update the paths in them.
+
+2. documentation on how to install these globally...
 
 I put these directly in my home directory and configure them as global so that they run in every project on my computer.
 To make these work globally, run:
@@ -10,9 +12,10 @@ git config --global core.hooksPath path/to/wherever/you/cloned/this/directory
 
 These will now run in any new git repo you create on your local computer. In order to get them to run on any projects that already exist on your local, cd into that project and run `git init` to re-initialize the project. This won't harm anything, it will just refresh your git so that it is aware of the new global config you just created.
 
-2. with info on how to install them on just a local project.
+3. with info on how to install them on just a local project.
 
 You could also just take the /hooks and /sounds directories and place them in the .git directory of one specific project, and then they would run just for that project. Make sure you run `git init` in your local project after you add these new hooks.
+
 
 Resources: a list of all the urls I hit up when piecing together how to accomplish this
 
