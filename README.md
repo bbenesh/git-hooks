@@ -1,7 +1,7 @@
 # git-hooks
 My global git hooks -- most notably, they play audio files when you pull, commit, and push.
 
-1. git clone git@github.com:zombree/git-hooks.git .git
+1. git clone git@github.com:bbenesh/git-hooks.git .git
 OR download to your computer, save in your home directory, and make sure to name the top-level directory .git. If you don't want this to live in your ~/.git, you need to go into all the hooks that don't end in .sample and update the paths in them.
 
 2. documentation on how to install these globally...
